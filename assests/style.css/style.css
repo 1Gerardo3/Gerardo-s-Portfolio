@@ -1,0 +1,146 @@
+body {
+  background-color: rgb(137, 141, 137);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  font-size: 50pt;
+}
+
+#gera {
+  font-size: 45pt;
+}
+h1,
+#gera:hover {
+  box-shadow: inset 0px 0px 10px gold;
+}
+
+h1,
+#gera {
+  display: flex;
+  justify-content: space-between;
+  border-radius: 40px;
+}
+
+h1:hover {
+  box-shadow: 8px 8px 35px green;
+}
+.nav {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.nav-bar div {
+  display: inline-flex;
+  padding: 15px;
+  font-size: 22pt;
+}
+
+.nav-bar .gold:hover {
+  color: gold;
+  box-shadow: inset 5px 5px 15px green;
+  border-radius: 40px;
+}
+
+.gold {
+  text-decoration: none;
+  font-style: italic;
+  color: gold;
+}
+
+.bri {
+  display: flex;
+  justify-content: center;
+}
+
+.bri img {
+  border-radius: 35px;
+  box-shadow: 0px 0px 10px gold;
+}
+
+.me {
+  display: flex;
+  border-radius: 30px;
+  padding: 60px;
+  margin: 60px;
+}
+
+.me:hover {
+  box-shadow: 8px 8px 35px green;
+}
+
+h2 {
+  display: flex;
+  justify-content: center;
+}
+
+.hobbies {
+  border-radius: 30px;
+  padding: 60px;
+  margin: 60px;
+}
+
+.hobbies:hover {
+  box-shadow: 8px 8px 35px green;
+}
+
+.horiseon {
+  width: 400px;
+  height: 400px;
+}
+.horiseon:hover {
+  box-shadow: 5px 5px 15px gold;
+}
+.pong {
+  width: 300px;
+  height: 300px;
+}
+.pong:hover {
+  box-shadow: 5px 5px 15px gold;
+}
+
+.work {
+  border-radius: 30px;
+  padding: 60px;
+  margin: 60px;
+}
+
+.work:hover {
+  box-shadow: inset 8px 8px 35px green;
+}
+
+h3 {
+  font-size: 20pt;
+  text-align: center;
+}
+
+.footer {
+  background-color: rgb(230, 102, 102);
+}
+
+.contact li {
+  display: inline-flex;
+  padding: 10px;
+  margin: 10px;
+}
+
+@media screen and (max-width: 992px) {
+  .bri {
+    box-shadow: 3px 3px 12px rgb(216, 20, 20);
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .bri {
+    box-shadow: 3px 3px 12px rgb(40, 20, 216);
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .bri {
+    box-shadow: 3px 3px 12px rgb(20, 216, 30);
+  }
+}
