@@ -3,13 +3,16 @@
 ## Project Status:
 finished/updating on regular basis
 
+## URL
+https://1gerardo3.github.io/Gerardo-s-Portfolio/
+
 
 ## Description
-This is my portfolio here you can see all my past work and what im curently working on and more about me.
+In this portfolio you can see all about me gerardo here you can see all my past work and what im curently working on and more.
 
 
 ## Usage:
-This portfolio is for future Employers to se my work.
+This portfolio is to show future Employers to see my work and to keep a good record of all my work.
 
 
 ## Suport:
