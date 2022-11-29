@@ -17,3 +17,5 @@ For help or questions you can contact Gerardo Alvarez at 1gerardo3@gmail.com.
 
 ## Lcence:
 NA
+
+<img src="./assests/Images/my portfolio page.png" alt="pic of my portfolio wed page"/>
