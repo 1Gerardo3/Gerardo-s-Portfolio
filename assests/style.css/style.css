@@ -88,15 +88,15 @@ h2 {
 }
 
 .horiseon {
-  width: 400px;
-  height: 400px;
+  width: 500px;
+  height: 500px;
 }
 .horiseon:hover {
   box-shadow: 5px 5px 15px gold;
 }
 .pong {
-  width: 300px;
-  height: 300px;
+  width: 350px;
+  height: 350px;
 }
 .pong:hover {
   box-shadow: 5px 5px 15px gold;
@@ -127,6 +127,15 @@ h3 {
   margin: 10px;
 }
 
+
+.snippet {
+  width: 250px;
+  height: 250px;
+}
+.snippet:hover {
+  box-shadow: 5px 5px 15px gold;
+}
+
 @media screen and (max-width: 992px) {
   .bri {
     box-shadow: 3px 3px 12px rgb(216, 20, 20);
@@ -144,3 +153,4 @@ h3 {
     box-shadow: 3px 3px 12px rgb(20, 216, 30);
   }
 }
+
